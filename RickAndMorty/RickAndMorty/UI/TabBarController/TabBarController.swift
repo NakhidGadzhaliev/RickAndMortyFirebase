@@ -128,5 +128,5 @@ final class SettingsViewController: UIViewController {
 }
 
 #Preview {
-    UINavigationController(rootViewController: TabBarController())
+    TabBarController()
 }
